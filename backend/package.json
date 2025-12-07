@@ -18,6 +18,9 @@
   "devDependencies": {
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
-    "drizzle-kit": "^0.31.8"
+    "@types/node": "^24.10.1",
+    "drizzle-kit": "^0.31.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }
